@@ -1,0 +1,10 @@
+Change Log for Interface
+------------------------
+
+This is an internal log meant for keeping track what is done on the project.
+
+By Fateen Farhanah
+
+Date              Updates
+----              -------
+13/11/2016        Input panel is done, but not yet tested for value-holding. Output panel yet to be implemented.
